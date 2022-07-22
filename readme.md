@@ -5,4 +5,5 @@
 5. git push [rep_link] [branch_name]
 6. git remote -v - узнать ссылки на репозитории
 7. git branch - узнать название ветки
-8. git reset название файла
+8. git reset название файла/ git reset hard
+9. git diff - показать последние изменения
