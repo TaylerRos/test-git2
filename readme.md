@@ -7,3 +7,5 @@
 7. git branch - узнать название ветки
 8. git reset название файла/ git reset hard
 9. git diff - показать последние изменения
+10. git branch название ветки
+11. git checkout - смена ветки
